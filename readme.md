@@ -1,2 +1,2 @@
 packages/next/README.md
-ddv
+This is my first commit for Builders & Founders verification ✅
